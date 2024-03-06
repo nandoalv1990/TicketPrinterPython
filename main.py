@@ -12,7 +12,7 @@ from PIL import Image, ImageTk
 class BarcodeApp:
     def __init__(self, master):
         self.master = master
-        self.master.title("Barcode Printing and Scanning App V0.1.1")
+        self.master.title("Aplicacin de impresión de etiquetas para almacen V0.1.1")
 
         # Variables para el tipo de código de barras y datos
         self.barcode_type_var = tk.StringVar(master, value='code128')
