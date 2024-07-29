@@ -148,7 +148,7 @@ class BarcodeApp:
                 self.show_qr_code(barcode_type, data)
             else:
                 self.show_preview_window(barcode_type, data)
-#Ventana se abre para vista previa de la impresión
+        #Ventana se abre para vista previa de la impresión
     def show_preview_window(self, barcode_type, data):
         preview_window = tk.Toplevel(self.master)
         preview_window.title("Barcode Preview")
