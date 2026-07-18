@@ -1,4 +1,4 @@
-#Licencia: Software propietario
+#Licencia: GPLv3
 #Autor: Fernando Alvarez Delgadillo
 #Fecha: 11/12/2023
 #Descripción: Software en python para la impresión de etiquetas
